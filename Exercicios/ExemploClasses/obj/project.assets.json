@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/ExemploClasses.csproj",
+      "projectUniqueName": "/workspaces/trabalho-final-heitor/Exercicios/ExemploClasses/ExemploClasses.csproj",
       "projectName": "ExemploClasses",
-      "projectPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/ExemploClasses.csproj",
+      "projectPath": "/workspaces/trabalho-final-heitor/Exercicios/ExemploClasses/ExemploClasses.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/obj/",
+      "outputPath": "/workspaces/trabalho-final-heitor/Exercicios/ExemploClasses/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

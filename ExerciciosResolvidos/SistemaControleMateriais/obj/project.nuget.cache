@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fPN2mwVVVGQ=",
+  "dgSpecHash": "Y0kzXDKrSGU=",
   "success": true,
-  "projectFilePath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/SistemaControleMateriais/SistemaControleMateriais.csproj",
+  "projectFilePath": "/workspaces/trabalho-final-heitor/ExerciciosResolvidos/SistemaControleMateriais/SistemaControleMateriais.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.data.sqlite/10.0.11/microsoft.data.sqlite.10.0.11.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.data.sqlite.core/10.0.11/microsoft.data.sqlite.core.10.0.11.nupkg.sha512",
